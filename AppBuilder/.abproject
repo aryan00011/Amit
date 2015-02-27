@@ -5,7 +5,7 @@
   "AppIdentifier": "com.telerik.AppBuilder",
   "DisplayName": "AppBuilder",
   "Author": "",
-  "Description": "",
+  "Description": "AppBuilder",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
